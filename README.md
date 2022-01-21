@@ -18,5 +18,7 @@ Features
 - Moment.js
 
 Demo 
-/Users/sumayagure/Great-Work-Day-Scheduler/wp .png
-/Users/sumayagure/Great-Work-Day-Scheduler/work planner bellow.png
+
+
+ <img width="1440" alt="Screenshot 2022-01-21 at 16 11 06" src="https://user-images.githubusercontent.com/92344120/150563012-54f945be-dc06-4fef-ac58-e0d4c7defb0b.png">
+<img width="1440" alt="Screenshot 2022-01-21 at 16 09 50" src="https://user-images.githubusercontent.com/92344120/150563033-d618e374-41f0-4a28-b4f7-d12efc1b54b9.png">
