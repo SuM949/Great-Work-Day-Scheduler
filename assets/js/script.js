@@ -1,12 +1,9 @@
 m = moment().hour();
 console.log(m);
 
-
-    
 var today = moment().format("MMMM " + "Do, " + "YYYY");
 var currentDay = document.getElementById("currentDay");
 currentDay.innerHTML = today
-
 
 var timeSlot = [["9AM","9"], ["10AM","10"], ["11AM","11"], ["12PM","12"], ["1PM","13"], ["2PM","14"], ["3PM","15"], ["4PM", "16"], ["5PM","17"], ["6pm","18"], ["7pm","19"], ["8pm","20"]];
 var saveBtnIds = [];
